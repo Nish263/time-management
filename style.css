@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: 100vh;
+  background: linear-gradient(
+    to bottom,
+    rgb(243, 243, 184),
+    rgb(252, 198, 198)
+  );
+}
